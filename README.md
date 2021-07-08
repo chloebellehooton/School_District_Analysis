@@ -7,7 +7,6 @@ After our initial analysis, we were notified that there was evidence of academic
 
 ## Results
 
-
 ### How is the district summary affected?
 
 The performance of the district went down slightly, as shown in the two images. The overall percentage passing went down from 65% to 64.9%. 
@@ -20,20 +19,32 @@ District Summary Revised
 
 
 ### How is the school summary affected?
+The changes for the Thomas High School summary from the original to the final product:  
+  - Average Math Score: decreased from 83.42 to 83.35
+  - Average Reading Score: increased from 83.85 to 83.90
+  - % Passing Math: decreased from 93.27 to 93.19
+  - % Passing Reading: decreased from 97.31 to 97.02
+  - % Overall Passing: increased from 90.95 to 90.63
 
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+School Summary Original
 ![School Summary Original](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/per_school_summary_before.png) 
-
 
 School Summary Revised
 ![School Summary Revised](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/per_school_summary_after.png)
 
-### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-
 ### How does replacing the ninth-grade scores affect the following:
 
 #### Math and reading scores by grade
+
+
 #### Scores by school spending
+
+
 #### Scores by school size
+
+
 #### Scores by school type
 
 

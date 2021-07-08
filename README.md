@@ -21,7 +21,7 @@ District Summary Revised
 
 ### How is the school summary affected?
 
-![School Summary Original](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/per_school_summary_before.png)
+![School Summary Original](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/per_school_summary_before.png) 
 
 
 School Summary Revised

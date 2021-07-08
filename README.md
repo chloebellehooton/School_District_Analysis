@@ -7,19 +7,25 @@ After our initial analysis, we were notified that there was evidence of academic
 
 ## Results
 
-Using bulleted lists and images of DataFrames as support, address the following questions.
 
 ### How is the district summary affected?
 
 The performance of the district went down slightly, as shown in the two images. The overall percentage passing went down from 65% to 64.9%. 
-District Summary Before
-![District Summary Before](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/district_summary_before.png)
 
-District Summary After
-![District Summary After](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/district_summary_after.png)
+District Summary Original
+![District Summary Revised](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/district_summary_before.png)
+
+District Summary Revised
+![District Summary Revised](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/district_summary_after.png)
 
 
 ### How is the school summary affected?
+
+![School Summary Original](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/per_school_summary_before.png)
+
+
+School Summary Revised
+![School Summary Revised](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/per_school_summary_after.png)
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 

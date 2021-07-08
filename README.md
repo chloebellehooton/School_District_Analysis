@@ -11,6 +11,13 @@ Using bulleted lists and images of DataFrames as support, address the following 
 
 ### How is the district summary affected?
 
+The performance of the district went down slightly, as shown in the two images. The overall percentage passing went down from 65% to 64.9%. 
+District Summary Before
+![District Summary Before](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/district_summary_before.png)
+
+District Summary After
+![District Summary After](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/district_summary_after.png)
+
 
 ### How is the school summary affected?
 

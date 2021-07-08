@@ -41,12 +41,26 @@ School Summary Revised
 
 #### Scores by school spending
 
+Scores by School Spending Original
+![Scores by School Spending Original](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/scores_spending_before.png)
+
+Scores by School Spending Revised
+![Scores by School Spending Revised](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/scores_spending_after.png)
 
 #### Scores by school size
+Scores by School Size Original
+![Scores by School Size Original](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/scores_size_before.png)
 
+Scores by School Size Revised
+![Scores by School Size Revised](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/scores_size_after.png)
 
 #### Scores by school type
 
+Scores by School Type Original
+![Scores by School Type Original](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/scores_type_before.png)
+
+Scores by School Type Revised
+![Scores by School Type Revised](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/scores_type_after.png)
 
 ## Summary: 
 

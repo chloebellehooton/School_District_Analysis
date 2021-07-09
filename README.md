@@ -39,23 +39,22 @@ School Summary Revised
 #### Math and reading scores by grade
 
 
-#### Scores by school spending
+#### Scores by School Spending, Size, and Type
+Comparing the orignal and the revised scores by spending, size, and type, they have not changed after removing the academic dishonesty cases. These numbers have also been rounded so perhaps there is a slight difference but it would not be significant at the aggregate level. 
 
+#### School Size
 Scores by School Spending Original
 ![Scores by School Spending Original](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/scores_spending_before.png)
-
 Scores by School Spending Revised
 ![Scores by School Spending Revised](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/scores_spending_after.png)
 
-#### Scores by school size
+#### School Size
 Scores by School Size Original
 ![Scores by School Size Original](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/scores_size_before.png)
-
 Scores by School Size Revised
 ![Scores by School Size Revised](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/scores_size_after.png)
 
-#### Scores by school type
-
+#### School Type
 Scores by School Type Original
 ![Scores by School Type Original](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/scores_type_before.png)
 
@@ -65,3 +64,6 @@ Scores by School Type Revised
 ## Summary: 
 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+
+
+After replacing the reading and math scores with NaNs, the average reading scores and overall pass percentage increased and the average math scores, math pass percentage, and reading pass percentage decreased. The scores by school type, size, and spending did not change. 

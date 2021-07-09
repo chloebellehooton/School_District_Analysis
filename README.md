@@ -37,6 +37,12 @@ School Summary Revised
 ### How does replacing the ninth-grade scores affect the following:
 
 #### Math and reading scores by grade
+Only 9th grade scores were dropped so the other ones were not affected. As shown in the images
+Math Scores by Grade Original
+![Math Scores by Grade Original](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/math_bygrade_before.png)
+
+Math Scores by Grade Revised
+![Math Scores by Grade Revised](https://github.com/chloebellehooton/School_District_Analysis/blob/main/Images/math_bygrade_after.png)
 
 
 #### Scores by School Spending, Size, and Type
